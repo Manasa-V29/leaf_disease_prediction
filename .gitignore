@@ -1,0 +1,18 @@
+# Python compiled files
+_pycache_/
+*.pyc
+
+# Virtual environment
+leafvenv/
+
+
+
+# Jupyter notebooks
+*.ipynb
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
